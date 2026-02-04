@@ -4,9 +4,9 @@
 [![codecov](https://codecov.io/gh/ghiscoding/remove-glob/branch/main/graph/badge.svg)](https://codecov.io/gh/ghiscoding/remove-glob)
 <a href="https://nodejs.org/en/about/previous-releases"><img src="https://img.shields.io/node/v/remove-glob.svg" alt="Node" /></a>
 
-[![npm](https://img.shields.io/npm/v/remove-glob.svg)](https://www.npmjs.com/package/remove-glob)
 [![npm](https://img.shields.io/npm/dy/remove-glob)](https://www.npmjs.com/package/remove-glob)
-[![npm bundle size](https://img.shields.io/badge/gzip-1.05kB-success)](https://bundlejs.com/?q=remove-glob)
+[![npm](https://img.shields.io/npm/v/remove-glob.svg)](https://www.npmjs.com/package/remove-glob)
+[![npm bundle size](https://img.shields.io/badge/gzip-1.05kB-1183c4)](https://bundlejs.com/?q=remove-glob)
 
 
 ## remove-glob
